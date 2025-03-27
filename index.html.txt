@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Anuradha | Main</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="hero">
+        <div class="card">
+            <h1>Anuradha, You’re My Everything</h1>
+            <div class="heart-3d">
+                <div class="heart-inner"></div>
+            </div>
+            <p class="subtitle">Agar tum haan kaho, toh meri duniya poori ho jayegi.</p>
+            <a href="page2.html" class="btn">Discover Your Surprise</a>
+        </div>
+    </div>
+    <audio autoplay loop id="bg-music">
+        <source src="https://www.dropbox.com/scl/fi/xyz123/i-wanna-be-yours.mp3?rlkey=abc123&raw=1" type="audio/mp3">
+    </audio>
+    <script src="script.js"></script>
+</body>
+</html>
